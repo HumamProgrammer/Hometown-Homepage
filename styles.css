@@ -1,0 +1,79 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+
+
+.hero {
+    background-image: url("https://swall.teahub.io/photos/small/306-3069873_pakistani-flag-high-resolution-hd-wallpaper-download-1080p.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    text-shadow: 3px 3px 0 black;
+    text-align: center;
+    
+
+}
+
+#gradient {
+        margin-top: -50px;
+        background: linear-gradient(#a2d2ff, #EFB0C9);
+        padding-bottom: 10px;
+        text-align: center;
+
+}
+
+#islfont {
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+}
+#islamabad {
+        margin-top: 0;
+        padding-top: 10px;
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+
+}
+#activities {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#guide {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 100px;
+    border: 4px solid #4361ee;
+    padding: 45px 50px;
+    background: #ffd670;
+    border-radius: 40px;
+    font-family: 'Nunito', sans-serif;
+    box-shadow: 5px 5px 5px #4cc9f0;
+    
+}
+
+span {
+    margin: 0 50px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
